@@ -1,0 +1,39 @@
+_repo: Zuchthausgeschichten-von-einem-ehemaligen-Z-chtlingZweiter-Theil_16279
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Stolz, Alban
+    alias: Stolc, Alban
+    birthdate: 1808
+    deathdate: 1883
+    gutenberg_agent_id: '6598'
+    url: http://www.gutenberg.org/2009/agents/6598
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hägele, Joseph M.
+    alias: Hagele, Joseph M.
+    gutenberg_agent_id: '6597'
+    url: http://www.gutenberg.org/2009/agents/6597
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2005-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16279'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, German -- 19th century'
+- !lcsh 'Autobiographies'
+- !lcsh 'Prisoners -- Biography'
+- !lcsh 'Christian life -- Catholic authors'
+- !lcc 'CT'
+title: 'Zuchthausgeschichten von einem ehemaligen Züchtling
+
+  Zweiter Theil'
+url: http://www.gutenberg.org/ebooks/16279
